@@ -12,40 +12,40 @@
 
 2. Procedimiento paso a paso
    Paso 1. Preparar el área de trabajo.
-    1.1. Limpiar y ordenar la mesa de trabajo.
-    1.2. Reunir las herramientas necesarias.
-    1.3. Colocarse los EPP indicados.
-    1.4. Preparar listo el contenedor de residuos.
-    1.5. Identificar el tipo de fibra.
+    - Limpiar y ordenar la mesa de trabajo.
+    - Reunir las herramientas necesarias.
+    - Colocarse los EPP indicados.
+    - Preparar listo el contenedor de residuos.
+    - Identificar el tipo de fibra.
 
       Seguridad: Nunca mirar directamente la fibra ni tocarse los ojos durante la práctica.
 
  
    Paso 2. Retirar la cubierta exterior.
-    2.1. Identificar la cubierta y los elementos de protección del cable.
-    2.2. Marcar la longitud necesaria según el tipo de cable y la caja de empalme.
-    2.3. Utilizar la herramienta adecuada para retirar la cubierta.
-    2.4. Evitar cortes profundos que puedan dañar los elementos interiores.
+    - Identificar la cubierta y los elementos de protección del cable.
+    - Marcar la longitud necesaria según el tipo de cable y la caja de empalme.
+    - Utilizar la herramienta adecuada para retirar la cubierta.
+    - Evitar cortes profundos que puedan dañar los elementos interiores.
 
 
 
    Paso 3. Realizar el stripping (pelado)
-    x. Identificar el recubrimiento que debe retirarse.
-    x. Seleccionar la ranura correcta de la peladora.
-    x. Colocar la fibra sin doblarla ni ejercer presión excesiva.
-    x. Retirar el recubrimiento de acuerdo con las instrucciones de la herramienta.
-    x. Comprobar que el vidrio no presente daños visibles.
+    - Identificar el recubrimiento que debe retirarse.
+    - Seleccionar la ranura correcta de la peladora.
+    - Colocar la fibra sin doblarla ni ejercer presión excesiva.
+    - Retirar el recubrimiento de acuerdo con las instrucciones de la herramienta.
+    - Comprobar que el vidrio no presente daños visibles.
 
        Error que puede ocurrir: Una peladora mal seleccionada puede rayar o fracturar el vidrio, si se daña la fibra, prepara un nuevo extremo.
 
 
 
    Paso 4. Limpiar la fibra
-    4.1. Utilizar un paño libre de pelusa.
-    4.2. Aplicar alcohol isopropílico de alta pureza según el procedimiento del laboratorio.
-    4.3. Limpiar suavemente la fibra desnuda.
-    4.4. Evitar tocar el vidrio con los dedos.
-    4.5. Esperar que el productor se "evapore" por completo antes del corte.
+    - Utilizar un paño libre de pelusa.
+    - Aplicar alcohol isopropílico de alta pureza según el procedimiento del laboratorio.
+    - Limpiar suavemente la fibra desnuda.
+    - Evitar tocar el vidrio con los dedos.
+    - Esperar que el productor se "evapore" por completo antes del corte.
    
 
    

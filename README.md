@@ -1,6 +1,6 @@
 # Fibra-Óptica
 
-##1. Herramientas y materiales
+1. Herramientas y materiales
    - Peladora de fibra óptica (stripper).
    - Cortadora de precisión (cleaver).
    - Fusionadora de fibra óptica.
@@ -10,8 +10,8 @@
    - Contenedor para residuos.
    - Cable o fibra óptica para la práctica.
 
-##2. Procedimiento paso a paso
-   ###Paso 1. Preparar el área de trabajo.
+2. Procedimiento paso a paso
+   Paso 1. Preparar el área de trabajo.
     - Limpiar y ordenar la mesa de trabajo.
     - Reunir las herramientas necesarias.
     - Colocarse los EPP indicados.
@@ -21,7 +21,7 @@
       Seguridad: Nunca mirar directamente la fibra ni tocarse los ojos durante la práctica.
 
  
-   ###Paso 2. Retirar la cubierta exterior.
+   Paso 2. Retirar la cubierta exterior.
     - Identificar la cubierta y los elementos de protección del cable.
     - Marcar la longitud necesaria según el tipo de cable y la caja de empalme.
     - Utilizar la herramienta adecuada para retirar la cubierta.
@@ -29,7 +29,7 @@
 
 
 
-   ###Paso 3. Realizar el stripping (pelado)
+   Paso 3. Realizar el stripping (pelado)
     - Identificar el recubrimiento que debe retirarse.
     - Seleccionar la ranura correcta de la peladora.
     - Colocar la fibra sin doblarla ni ejercer presión excesiva.
@@ -40,7 +40,7 @@
 
 
 
-   ###Paso 4. Limpiar la fibra
+   Paso 4. Limpiar la fibra
     - Utilizar un paño libre de pelusa.
     - Aplicar alcohol isopropílico de alta pureza según el procedimiento del laboratorio.
     - Limpiar suavemente la fibra desnuda.

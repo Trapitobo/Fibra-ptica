@@ -2,31 +2,31 @@
 
 
 1. Herramientas y materiales
-   x. Peladora de fibra óptica (stripper).
-   x. Cortadora de precisión (cleaver).
-   x. Fusionadora de fibra óptica.
-   x. Alcohol isopropílico de alta pureza, compatible con el procedimiento.
-   x. Paños libres de pelusa.
-   x. Protector termorretráctil.
-   x. Contenedor para residuos.
-   x. Cable o fibra óptica para la práctica.
+   1.1. Peladora de fibra óptica (stripper).
+   1.2. Cortadora de precisión (cleaver).
+   1.3. Fusionadora de fibra óptica.
+   1.4. Alcohol isopropílico de alta pureza, compatible con el procedimiento.
+   1.5. Paños libres de pelusa.
+   1.6. Protector termorretráctil.
+   1.7. Contenedor para residuos.
+   1.8. Cable o fibra óptica para la práctica.
 
 2. Procedimiento paso a paso
    Paso 1. Preparar el área de trabajo.
-    x. Limpiar y ordenar la mesa de trabajo.
-    x. Reunir las herramientas necesarias.
-    x. Colocarse los EPP indicados.
-    x. Preparar listo el contenedor de residuos.
-    x. Identificar el tipo de fibra.
+    1.1. Limpiar y ordenar la mesa de trabajo.
+    1.2. Reunir las herramientas necesarias.
+    1.3. Colocarse los EPP indicados.
+    1.4. Preparar listo el contenedor de residuos.
+    1.5. Identificar el tipo de fibra.
 
       Seguridad: Nunca mirar directamente la fibra ni tocarse los ojos durante la práctica.
 
  
    Paso 2. Retirar la cubierta exterior.
-    x. Identificar la cubierta y los elementos de protección del cable.
-    x. Marcar la longitud necesaria según el tipo de cable y la caja de empalme.
-    x. Utilizar la herramienta adecuada para retirar la cubierta.
-    x. Evitar cortes profundos que puedan dañar los elementos interiores.
+    2.1. Identificar la cubierta y los elementos de protección del cable.
+    2.2. Marcar la longitud necesaria según el tipo de cable y la caja de empalme.
+    2.3. Utilizar la herramienta adecuada para retirar la cubierta.
+    2.4. Evitar cortes profundos que puedan dañar los elementos interiores.
 
 
 
@@ -42,11 +42,11 @@
 
 
    Paso 4. Limpiar la fibra
-    x. Utilizar un paño libre de pelusa.
-    x. Aplicar alcohol isopropílico de alta pureza según el procedimiento del laboratorio.
-    x. Limpiar suavemente la fibra desnuda.
-    x. Evitar tocar el vidrio con los dedos.
-    x. Esperar que el productor se "evapore" por completo antes del corte.
+    4.1. Utilizar un paño libre de pelusa.
+    4.2. Aplicar alcohol isopropílico de alta pureza según el procedimiento del laboratorio.
+    4.3. Limpiar suavemente la fibra desnuda.
+    4.4. Evitar tocar el vidrio con los dedos.
+    4.5. Esperar que el productor se "evapore" por completo antes del corte.
    
 
    

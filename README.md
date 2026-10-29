@@ -1,6 +1,6 @@
 # Fibra-Óptica
 
-1. Herramientas y materiales
+1. Herramientas y materiales.
    - Peladora de fibra óptica (stripper).
    - Cortadora de precisión (cleaver).
    - Fusionadora de fibra óptica.
@@ -10,7 +10,7 @@
    - Contenedor para residuos.
    - Cable o fibra óptica para la práctica.
 
-2. Procedimiento paso a paso
+2. Procedimiento paso a paso.
    Paso 1. Preparar el área de trabajo.
     - Limpiar y ordenar la mesa de trabajo.
     - Reunir las herramientas necesarias.

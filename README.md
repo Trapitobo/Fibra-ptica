@@ -1,15 +1,14 @@
 # Fibra-Óptica
 
-
 1. Herramientas y materiales
-   1.1. Peladora de fibra óptica (stripper).
-   1.2. Cortadora de precisión (cleaver).
-   1.3. Fusionadora de fibra óptica.
-   1.4. Alcohol isopropílico de alta pureza, compatible con el procedimiento.
-   1.5. Paños libres de pelusa.
-   1.6. Protector termorretráctil.
-   1.7. Contenedor para residuos.
-   1.8. Cable o fibra óptica para la práctica.
+   - Peladora de fibra óptica (stripper).
+   - Cortadora de precisión (cleaver).
+   - Fusionadora de fibra óptica.
+   - Alcohol isopropílico de alta pureza, compatible con el procedimiento.
+   - Paños libres de pelusa.
+   - Protector termorretráctil.
+   - Contenedor para residuos.
+   - Cable o fibra óptica para la práctica.
 
 2. Procedimiento paso a paso
    Paso 1. Preparar el área de trabajo.

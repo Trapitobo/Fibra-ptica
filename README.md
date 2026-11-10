@@ -9,9 +9,9 @@
 
 ---
 
-## 1. Glosario técnico 
+## 1. 📚 Glosario técnico 
 
-| Término | Definición |
+| 🖋️ Término | 📑 Definición |
 |---|---|
 |**Núcleo (Core)** | Zona central de la fibra por donde se propaga la luz.|
 |**Cladding** | Revestimiento óptico que confina la luz dentro del núcleo.|

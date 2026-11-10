@@ -1,10 +1,10 @@
 # Manual práctico: Introducción a la "Fusión de Fibra Óptica"
 
-📖**Asignatura:** Infraestructura de Redes (TCB304)
+📖 **Asignatura:** Infraestructura de Redes (TCB304)
 
-👤**Autor:** Gabriel Díaz
+👤 **Autor:** Gabriel Díaz
 
-📍**Objetivo:** Implementar redes de fibra óptica considerando las recomendaciones de seguridad y planificación del proceso: Preparar, limpiar, cortar y termofusionar fibra, calcular el presupuesto óptico del enlace y evaluar la calidad de la unión.
+📍 **Objetivo:** Implementar redes de fibra óptica considerando las recomendaciones de seguridad y planificación del proceso: Preparar, limpiar, cortar y termofusionar fibra, calcular el presupuesto óptico del enlace y evaluar la calidad de la unión.
 
 
 ---
@@ -17,5 +17,18 @@
 |**Cladding** | Revestimiento óptico que confina la luz dentro del núcleo.|
 |**Cleaving** | Corte de precisión  que deja la cara de la fibra plana y a 90 grados.|
 |**Atenuación**| Disminución de la potencia óptica durante la transmisión.|
+
+
+---
+
+## 2. 🛠️ Herramientas y materiales
+- Pinza peladora de fibra óptica (stripper).
+- Cortadora de precisión (cleaver).
+- Fusionadora de fibra óptica.
+- Alcohol isopropílico de alta pureza.
+- Paños libres de pelusa.
+- Protector termorréctractil (heat shrink).
+- Contenedor para residuos.
+- Fibra óptica para la práctica.
    
    

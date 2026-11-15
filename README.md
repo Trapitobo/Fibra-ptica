@@ -105,7 +105,7 @@ El stripping consiste en retirar las capas protectoras de la fibra óptica para 
 - Comprobar que no existan daños visibles.
 
 **Imagen representativa:**
-![Alicate/Caiman](IMG_20261112_154527.jpg)
+![Alicate/Caiman](Fotos/IMG_20261112_154527.jpg)
 
 **⚠️ Error común:**
 Utilizar una ranura incorrecta o aplicar demasiada fuerza puede provocar rayaduras o fracturas en la fibra.
@@ -131,7 +131,7 @@ La limpieza permite eliminar residuos, polvo e impurezas que pueden afectar la c
 5. Esperar a que el alcohol se evapore completamente.
 
 **Imagen representativa:**
-![Alcohol Isopropílico](IMG_20261112_154532.jpg)
+![Alcohol Isopropílico](Fotos/IMG_20261112_154532.jpg)
    
 **⚠️ Error común:**
 Una limpieza incompleta puede provocar contaminación en los extremos de la fibra y afectar el resultado de la fusión.
@@ -155,7 +155,7 @@ El cleaving consiste en realizar un corte preciso en el extremo de la fibra ópt
 - Depositar los fragmentos sobrantes en el contenedor correspondiente.
 
   **Imagen representativa:**
-![Cleaver](IMG_20261112_151005.jpg)
+![Cleaver](Fotos/IMG_20261112_151005.jpg)
   
 **Resultado esperado:**
 Obtener un extremo de fibra con un corte regular, adecuado para realizar el proceso de termofusión.

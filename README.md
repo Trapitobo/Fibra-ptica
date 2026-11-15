@@ -17,6 +17,10 @@
 |**Cladding** | Revestimiento óptico que confina la luz dentro del núcleo.|
 |**Cleaving** | Corte de precisión  que deja la cara de la fibra plana y cerca de 90 grados.|
 |**Atenuación**| Disminución de la potencia óptica durante la transmisión.|
+|**Empalme por fusión**|	Unión permanente de dos extremos de fibra mediante una fusionadora.|
+|**Pérdida de inserción**|	Reducción de potencia óptica al atravesar un componente o empalme.|
+|**Pigtail**|	Tramo corto de fibra óptica que tiene un conector instalado en uno de sus extremos.|
+|**Manga termorretráctil**|	Protector que se contrae con calor para proteger mecánicamente el empalme.|
 
 
 ---

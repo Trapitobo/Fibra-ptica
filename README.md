@@ -31,7 +31,7 @@
 - Fusionadora de fibra óptica.
 - Alcohol isopropílico de alta pureza.
 - Paños libres de pelusa.
-- Protector termorréctractil (heat shrink).
+- Protector termorrectráctil (heat shrink).
 - Contenedor para residuos.
 - Fibra óptica para la práctica.
 - Lentes de seguridad.
@@ -203,7 +203,7 @@ Después de realizar la termofusión, es necesario proteger la unión para evita
 5. Comprobar que el protector se encuentre correctamente centrado.
 
 **Imagen representativa:**
-![Protector termorrectráctil](Fotos/IMG_20261112_154518.jpg)
+![Protector termorretráctil](Fotos/IMG_20261112_154518.jpg)
    
 **Resultado esperado:**
 Obtener un empalme protegido, firme y preparado para su posterior manipulación.

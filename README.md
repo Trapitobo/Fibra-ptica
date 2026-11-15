@@ -128,7 +128,7 @@ La limpieza permite eliminar residuos, polvo e impurezas que pueden afectar la c
 5. Esperar a que el alcohol se evapore completamente.
 
 **Imagen representativa:**
-![Alcohol Isopropílico](imagenes/IMG_20261112_154532.jpg)
+![Alcohol Isopropílico](IMG_20261112_154532.jpg)
    
 **⚠️ Error común:**
 Una limpieza incompleta puede provocar contaminación en los extremos de la fibra y afectar el resultado de la fusión.

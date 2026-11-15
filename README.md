@@ -34,6 +34,10 @@
 - Protector termorréctractil (heat shrink).
 - Contenedor para residuos.
 - Fibra óptica para la práctica.
+- Lentes de seguridad.
+
+**Justificación técnica:**
+Cada herramienta cumple una función específica durante el proceso de fusión, su correcta utilización permite evitar daños en la fibra, contaminación de los extremos y errores durante el empalme.
 
 
 ---
@@ -49,7 +53,9 @@
 
 - Contaminación de los extremos.
 
-- Lesiones por manipulación incorrecta.
+- Lesiones por manipulación incorrecta de herramientas.
+
+- Riesgos asociados a equipos eléctricos y superficies calientes.
 
 **✅Medidas preventivas:**
 
@@ -59,7 +65,91 @@
  
  - Depositar los residuos a un contenedor.
  
- - Mantener el área de trabajo limpia.
+ - Mantener el área de trabajo limpia y ordenada.
  
  - No comer ni beber durante la práctica.
+
+ - No mirar directamente dentro de conectores o extremos de fibra.
+
+
+---
+
+## 4. 🔧 Preparación del área de trabajo
+
+Antes de comenzar el procedimiento de fusión, es necesario preparar el espacio y comprobar que todos los materiales se encuentren disponibles.
+
+**Procedimiento:**
+1. Identificar el tipo de fibra y los materiales disponibles.
+2. Verificar el estado de las herramientas.
+3. Organizar los materiales sobre una superficie limpia.
+4. Ubicar el contenedor de residuos cerca del área de trabajo.
+5. Distribuir las funciones entre los integrantes del equipo u individualmente.
+   
+**Resultado esperado:**
+Contar con un espacio de trabajo organizado, seguro y con todos los elementos necesarios para realizar el procedimiento.
+
+
+---
+
+## 5. ✂️ Stripping: pelado de la fibra
+
+El stripping consiste en retirar las capas protectoras de la fibra óptica para dejar expuesto el vidrio, permitiendo realizar posteriormente la limpieza y el corte de precisión.
+
+**Herramienta utilizada:** Pinza peladora de fibra óptica (Stripper).
+
+**Consideraciones:**
+- Identificar las capas que deben retirarse.
+- Utilizar la ranura correspondiente de la herramienta.
+- Evitar aplicar demasiada presión.
+- No doblar ni marcar el vidrio de la fibra.
+- Comprobar que no existan daños visibles.
+
+**⚠️ Error común:**
+Utilizar una ranura incorrecta o aplicar demasiada fuerza puede provocar rayaduras o fracturas en la fibra.
+
+**Resultado esperado:**
+Obtener una fibra desnuda, sin restos de recubrimiento y sin daños visibles.
+
+
+---
+
+## 6. 🧼 Limpieza de precisión
+La limpieza permite eliminar residuos, polvo e impurezas que pueden afectar la calidad y provocar pérdidas de señal.
+
+**Materiales utilizados:**
+- Alcohol isopropílico de alta pureza.
+- Paños libres de pelusa.
+  
+**Procedimiento:**
+1. Preparar los materiales de limpieza.
+2. Aplicar el procedimiento de limpieza indicado por el docente.
+3. Utilizar una zona limpia del paño para evitar transferir suciedad.
+4. Evitar tocar la fibra desnuda con los dedos.
+5. Esperar a que el alcohol se evapore completamente.
+   
+**⚠️ Error común:**
+Una limpieza incompleta puede provocar contaminación en los extremos de la fibra y afectar el resultado de la fusión.
+
+**Resultado esperado:**
+Obtener una superficie de vidrio limpia y libre de residuos visibles.
+
+
+---
+
+## 7. 📐 Cleaving: corte de precisión
+El cleaving consiste en realizar un corte preciso en el extremo de la fibra óptica, procurando obtener una superficie plana y perpendicular al eje de la fibra.
+
+**Herramienta utilizada:** Cortadora de precisión (Cleaver).
+
+**Consideraciones:**
+- Verificar que la cortadora se encuentre limpia.
+- Posicionar la fibra correctamente según el equipo.
+- Seguir las indicaciones del fabricante y del docente.
+- Evitar tocar la cara de corte.
+- Depositar los fragmentos sobrantes en el contenedor correspondiente.
+  
+**Resultado esperado:**
+Obtener un extremo de fibra con un corte regular, adecuado para realizar el proceso de termofusión.
+
+**⚠️ Error común:** Un corte inclinado, irregular o contaminado puede dificultar la alineación y aumentar las pérdidas del empalme.
    

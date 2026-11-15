@@ -105,7 +105,7 @@ El stripping consiste en retirar las capas protectoras de la fibra óptica para 
 - Comprobar que no existan daños visibles.
 
 **Imagen representativa:**
-![Alicate/Caiman](Fotos/IMG_20261112_154527.jpg)
+![Alicate/Caiman](assets/img/IMG_20261112_154527.jpg)
 
 **⚠️ Error común:**
 Utilizar una ranura incorrecta o aplicar demasiada fuerza puede provocar rayaduras o fracturas en la fibra.
@@ -131,7 +131,7 @@ La limpieza permite eliminar residuos, polvo e impurezas que pueden afectar la c
 5. Esperar a que el alcohol se evapore completamente.
 
 **Imagen representativa:**
-![Alcohol Isopropílico](Fotos/IMG_20261112_154532.jpg)
+![Alcohol Isopropílico](assets/img/IMG_20261112_154532.jpg)
    
 **⚠️ Error común:**
 Una limpieza incompleta puede provocar contaminación en los extremos de la fibra y afectar el resultado de la fusión.
@@ -155,7 +155,7 @@ El cleaving consiste en realizar un corte preciso en el extremo de la fibra ópt
 - Depositar los fragmentos sobrantes en el contenedor correspondiente.
 
   **Imagen representativa:**
-![Cleaver](Fotos/IMG_20261112_151005.jpg)
+![Cleaver](assets/img/IMG_20261112_151005.jpg)
   
 **Resultado esperado:**
 Obtener un extremo de fibra con un corte regular, adecuado para realizar el proceso de termofusión.
@@ -180,7 +180,7 @@ La termofusión consiste en unir dos extremos de fibra óptica mediante una fusi
 7. Revisar el resultado y la pérdida estimada indicada por el equipo.
 
 **Imagen representativa:**
-![Fusionadora](Fotos/IMG_20261112_154513.jpg)
+![Fusionadora](assets/img/IMG_20261112_154513.jpg)
    
 **Resultado esperado:**
 Obtener una unión entre ambas fibras, correctamente alineada y sin alertas del equipo.
@@ -203,7 +203,7 @@ Después de realizar la termofusión, es necesario proteger la unión para evita
 5. Comprobar que el protector se encuentre correctamente centrado.
 
 **Imagen representativa:**
-![Protector termorretráctil](Fotos/IMG_20261112_154518.jpg)
+![Protector termorretráctil](assets/img/IMG_20261112_154518.jpg)
    
 **Resultado esperado:**
 Obtener un empalme protegido, firme y preparado para su posterior manipulación.

@@ -188,7 +188,7 @@ La termofusión consiste en unir dos extremos de fibra óptica mediante una fusi
 **Resultado esperado:**
 Obtener una unión entre ambas fibras, correctamente alineada y sin alertas del equipo.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Los parámetros de funcionamiento pueden variar según el modelo de fusionadora y el tipo de fibra; no modificar configuraciones sin autorización.
 
 ---

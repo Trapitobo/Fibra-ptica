@@ -97,16 +97,18 @@ El stripping consiste en retirar las capas protectoras de la fibra óptica para 
 
 **Herramienta utilizada:** Pinza peladora de fibra óptica (Stripper).
 
-**Consideraciones:**
-- Identificar las capas que deben retirarse.
-- Utilizar la ranura correspondiente de la herramienta.
-- Evitar aplicar demasiada presión.
-- No doblar ni marcar el vidrio de la fibra.
-- Comprobar que no existan daños visibles.
+**Procedimiento:**
+1. Sujetar la fibra con firmeza y ubicarla en la ranura correspondiente de la pinza.
+2. Retirar la chaqueta exterior y el buffer.
+3. Retirar el recubrimiento acrilato en tramos cortos, deslizando la pinza en línea recta.
+4. Comprobar que el vidrio quedó expuesto, sin restos de recubrimiento.
+5. Revisar que la fibra no tenga marcas, dobleces ni daños visibles.
+6. Depositar los restos en el contenedor de residuos.
 
 **Imagen representativa:**
 ![Alicate/Caiman](assets/img/IMG_20261112_154527.jpg)
 
+[!WARNING]
 **⚠️ Error común:**
 Utilizar una ranura incorrecta o aplicar demasiada fuerza puede provocar rayaduras o fracturas en la fibra.
 

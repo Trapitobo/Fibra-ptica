@@ -180,7 +180,7 @@ La termofusión consiste en unir dos extremos de fibra óptica mediante una fusi
 7. Revisar el resultado y la pérdida estimada indicada por el equipo.
 
 **Imagen representativa:**
-![Fusionadora](Fotos/IMG_20261112_154532.jpg)
+![Fusionadora](Fotos/IMG_20261112_154513.jpg)
    
 **Resultado esperado:**
 Obtener una unión entre ambas fibras, correctamente alineada y sin alertas del equipo.
@@ -203,7 +203,7 @@ Después de realizar la termofusión, es necesario proteger la unión para evita
 5. Comprobar que el protector se encuentre correctamente centrado.
 
 **Imagen representativa:**
-![Protector termorrectráctil](Fotos/IMG_20261112_154532.jpg)
+![Protector termorrectráctil](Fotos/IMG_20261112_154518.jpg)
    
 **Resultado esperado:**
 Obtener un empalme protegido, firme y preparado para su posterior manipulación.

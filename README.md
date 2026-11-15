@@ -153,6 +153,9 @@ El cleaving consiste en realizar un corte preciso en el extremo de la fibra ópt
 - Seguir las indicaciones del fabricante y del docente.
 - Evitar tocar la cara de corte.
 - Depositar los fragmentos sobrantes en el contenedor correspondiente.
+
+  **Imagen representativa:**
+![Cleaver](IMG_20261112_151005.jpg)
   
 **Resultado esperado:**
 Obtener un extremo de fibra con un corte regular, adecuado para realizar el proceso de termofusión.

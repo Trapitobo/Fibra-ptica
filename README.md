@@ -109,7 +109,7 @@ El stripping consiste en retirar las capas protectoras de la fibra óptica para 
 ![Alicate/Caiman](assets/img/IMG_20261112_154527.jpg)
 
 > [!WARNING]
-> **⚠️ Error común:** Utilizar una ranura incorrecta o aplicar demasiada fuerza puede provocar rayaduras o fracturas en la fibra.
+> **Error común:** Utilizar una ranura incorrecta o aplicar demasiada fuerza puede provocar rayaduras o fracturas en la fibra.
 
 **Resultado esperado:**
 Obtener una fibra desnuda, sin restos de recubrimiento y sin daños visibles.
@@ -134,8 +134,8 @@ La limpieza permite eliminar residuos, polvo e impurezas que pueden afectar la c
 **Imagen representativa:**
 ![Alcohol Isopropílico](assets/img/IMG_20261112_154532.jpg)
    
-**⚠️ Error común:**
-Una limpieza incompleta puede provocar contaminación en los extremos de la fibra y afectar el resultado de la fusión.
+> [!WARNING]
+> **Error común:** Una limpieza incompleta puede provocar contaminación en los extremos de la fibra y afectar el resultado de la fusión.
 
 **Resultado esperado:**
 Obtener una superficie de vidrio limpia y libre de residuos visibles.

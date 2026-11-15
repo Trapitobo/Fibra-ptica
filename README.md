@@ -108,7 +108,7 @@ El stripping consiste en retirar las capas protectoras de la fibra óptica para 
 **Imagen representativa:**
 ![Alicate/Caiman](assets/img/IMG_20261112_154527.jpg)
 
-> [!RIESGO]
+> [!WARNING]
 > **Error común:** Utilizar una ranura incorrecta o aplicar demasiada fuerza puede provocar rayaduras o fracturas en la fibra.
 
 **Resultado esperado:**
@@ -134,7 +134,7 @@ La limpieza permite eliminar residuos, polvo e impurezas que pueden afectar la c
 **Imagen representativa:**
 ![Alcohol Isopropílico](assets/img/IMG_20261112_154532.jpg)
    
-> [!RIESGO]
+> [!WARNING]
 > **Error común:** Una limpieza incompleta puede provocar contaminación en los extremos de la fibra y afectar el resultado de la fusión.
 
 **Resultado esperado:**
@@ -159,7 +159,7 @@ El cleaving consiste en realizar un corte preciso en el extremo de la fibra ópt
   **Imagen representativa:**
 ![Cleaver](assets/img/IMG_20261112_151005.jpg)
   
-> [!RIESGO]
+> [!WARNING]
 > **Error común:** Un corte inclinado, irregular o contaminado puede dificultar la alineación y aumentar las pérdidas del empalme.
 
 **Resultado esperado:**
@@ -188,7 +188,7 @@ La termofusión consiste en unir dos extremos de fibra óptica mediante una fusi
 **Resultado esperado:**
 Obtener una unión entre ambas fibras, correctamente alineada y sin alertas del equipo.
 
-> [!IMPORTANTE]
+> [!IMPORTANT]
 > Los parámetros de funcionamiento pueden variar según el modelo de fusionadora y el tipo de fibra. No modificar configuraciones sin autorización del docente.
 
 ---

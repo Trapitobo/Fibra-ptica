@@ -148,20 +148,22 @@ El cleaving consiste en realizar un corte preciso en el extremo de la fibra ópt
 
 **Herramienta utilizada:** Cortadora de precisión (Cleaver).
 
-**Consideraciones:**
-- Verificar que la cortadora se encuentre limpia.
-- Posicionar la fibra correctamente según el equipo.
-- Seguir las indicaciones del fabricante y del docente.
-- Evitar tocar la cara de corte.
-- Depositar los fragmentos sobrantes en el contenedor correspondiente.
+**Procedimiento:**
+1. Verificar que la cortadora se encuentre limpia.
+2. Colocar la fibra pelada y limpia.
+3. Cerrar las tapas de sujeción.
+4. Accionar el mecanismo de corte siguiendo las indicaciones del fabricante.
+5. Retirar la fibra con cuidado, sin tocar la cara de corte.
+6. Depositar el fragmento sobrante en el contenedor de residuos.
 
   **Imagen representativa:**
 ![Cleaver](assets/img/IMG_20261112_151005.jpg)
   
+> [!WARNING]
+> **Error común:** Un corte inclinado, irregular o contaminado puede dificultar la alineación y aumentar las pérdidas del empalme.
+
 **Resultado esperado:**
 Obtener un extremo de fibra con un corte regular, adecuado para realizar el proceso de termofusión.
-
-**⚠️ Error común:** Un corte inclinado, irregular o contaminado puede dificultar la alineación y aumentar las pérdidas del empalme.
 
 
 ---

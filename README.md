@@ -161,4 +161,50 @@ El cleaving consiste en realizar un corte preciso en el extremo de la fibra ópt
 Obtener un extremo de fibra con un corte regular, adecuado para realizar el proceso de termofusión.
 
 **⚠️ Error común:** Un corte inclinado, irregular o contaminado puede dificultar la alineación y aumentar las pérdidas del empalme.
+
+
+---
+
+## 8. ⚡ Proceso de termofusión
+La termofusión consiste en unir dos extremos de fibra óptica mediante una fusionadora, que realiza la alineación de las fibras y aplica un arco eléctrico para generar una unión permanente.
+
+**Equipo utilizado:** Fusionadora de fibra óptica.
+
+**Etapas generales del procedimiento:**
+1. Verificar que ambos extremos de fibra estén preparados y limpios.
+2. Comprobar que la fusionadora esté configurada para el tipo de fibra utilizado.
+3. Colocar los extremos en los soportes correspondientes.
+4. Cerrar la tapa del equipo.
+5. Observar el proceso de alineación realizado por la máquina.
+6. Ejecutar el ciclo de fusión siguiendo las indicaciones del docente.
+7. Revisar el resultado y la pérdida estimada indicada por el equipo.
+
+**Imagen representativa:**
+![Fusionadora](Fotos/IMG_20261112_154532.jpg)
+   
+**Resultado esperado:**
+Obtener una unión entre ambas fibras, correctamente alineada y sin alertas del equipo.
+
+**⚠️ Importante:** Los parámetros de funcionamiento pueden variar según el modelo de fusionadora y el tipo de fibra. No modificar configuraciones sin autorización del docente.
+
+
+---
+
+## 9. 🛡️ Protección del empalme
+Después de realizar la termofusión, es necesario proteger la unión para evitar daños mecánicos durante su manipulación e instalación.
+
+**Material utilizado:** Protector termorretráctil (Heat Shrink).
+
+**Procedimiento:**
+1. Deslizar el protector hasta cubrir la zona del empalme.
+2. Colocar la fibra en el soporte correspondiente.
+3. Utilizar el horno de protección de acuerdo con las indicaciones del fabricante.
+4. Esperar el tiempo de enfriamiento recomendado.
+5. Comprobar que el protector se encuentre correctamente centrado.
+
+**Imagen representativa:**
+![Protector termorrectráctil](Fotos/IMG_20261112_154532.jpg)
+   
+**Resultado esperado:**
+Obtener un empalme protegido, firme y preparado para su posterior manipulación.
    

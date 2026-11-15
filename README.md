@@ -104,6 +104,9 @@ El stripping consiste en retirar las capas protectoras de la fibra óptica para 
 - No doblar ni marcar el vidrio de la fibra.
 - Comprobar que no existan daños visibles.
 
+**Imagen representativa:**
+![Alicate/Caiman](IMG_20261112_154527.jpg)
+
 **⚠️ Error común:**
 Utilizar una ranura incorrecta o aplicar demasiada fuerza puede provocar rayaduras o fracturas en la fibra.
 

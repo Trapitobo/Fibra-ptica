@@ -176,7 +176,7 @@ La termofusión consiste en unir dos extremos de fibra óptica mediante una fusi
 3. Colocar los extremos en los soportes correspondientes.
 4. Cerrar la tapa del equipo.
 5. Observar el proceso de alineación realizado por la máquina.
-6. Ejecutar el ciclo de fusión siguiendo las indicaciones del docente.
+6. Ejecutar el ciclo de fusión según indicado.
 7. Revisar el resultado y la pérdida estimada indicada por el equipo.
 
 **Imagen representativa:**
@@ -193,12 +193,12 @@ Obtener una unión entre ambas fibras, correctamente alineada y sin alertas del 
 ## 9. 🛡️ Protección del empalme
 Después de realizar la termofusión, es necesario proteger la unión para evitar daños mecánicos durante su manipulación e instalación.
 
-**Material utilizado:** Protector termorretráctil (Heat Shrink).
+**Material utilizado:** Protector termorretráctil.
 
 **Procedimiento:**
-1. Deslizar el protector hasta cubrir la zona del empalme.
+1. Deslizar el protector hasta cubrir la zona.
 2. Colocar la fibra en el soporte correspondiente.
-3. Utilizar el horno de protección de acuerdo con las indicaciones del fabricante.
+3. Utilizar el horno de protección de acuerdo con las indicaciones.
 4. Esperar el tiempo de enfriamiento recomendado.
 5. Comprobar que el protector se encuentre correctamente centrado.
 

@@ -240,7 +240,7 @@ Pérdida total = (Longitud × atenuación por km)
 | Presupuesto GPON Clase B+ | 28 dB |
 
 > [!NOTE]
-> Son valores típicos de referencia. Pueden variar según el fabricante y la norma utilizada.
+> Son valores típicos de referencia, pueden variar según el fabricante y la norma utilizada.
 
 **Ejemplo de cálculo (enlace de 5 km):**
 
@@ -262,5 +262,5 @@ Pérdida total = (Longitud × atenuación por km)
 Como la pérdida calculada es menor que el presupuesto disponible, el enlace es viable.
 
 > [!TIP]
-> Cada empalme mal hecho suma pérdida. Un buen corte y una buena limpieza (secciones 6 y 7) ayudan a mantener cada empalme cerca de 0,1 dB.
+> Cada empalme mal hecho suma pérdida; un buen corte y una buena limpieza (secciones 6 y 7) ayudan a mantener cada empalme cerca de 0,1 dB.
    

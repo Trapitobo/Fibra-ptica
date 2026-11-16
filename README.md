@@ -4,7 +4,7 @@
 
 👤 **Autor:** Gabriel Díaz
 
-📍 **Objetivo:** Implementar redes de fibra óptica considerando las recomendaciones de seguridad y planificación del proceso: Preparar, limpiar, cortar y termofusionar fibra.
+📍 **Objetivo:** Implementar redes de fibra óptica considerando las recomendaciones de seguridad y planificación del proceso: Preparar, limpiar, cortar y termofusionar fibra; calcular el presupuesto óptico del enlace y evaluar la calidad de la unión.
 
 
 ---
@@ -31,7 +31,7 @@
 - Fusionadora de fibra óptica.
 - Alcohol isopropílico de alta pureza.
 - Paños libres de pelusa.
-- Protector termorrectráctil (heat shrink).
+- Protector termorretráctil (heat shrink).
 - Contenedor para residuos.
 - Fibra óptica para la práctica.
 - Lentes de seguridad.
@@ -84,7 +84,7 @@ Los restos de fibra son vidrio muy fino y casi invisible, por lo que no pueden q
 1. Mantener un contenedor para residuos cerca de la zona de trabajo.
 2. Depositar cada fragmento en el contenedor inmediatamente después de pelar o cortar.
 3. No dejar restos sobre la mesa ni en el piso, y no tocarlos con los dedos, si queda algún fragmento, recogerlo con cinta u guantes.
-4. Al terminar la práctica, cerrar el contenedor y entregarlo según se indique.
+4. Comprobar que el vidrio de 125 micras quedó expuesto, sin restos de recubrimiento.
 
 
 ---

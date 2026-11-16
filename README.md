@@ -313,4 +313,44 @@ Como la pérdida calculada es menor que el presupuesto disponible, el enlace es 
 
 > [!TIP]
 > Cada empalme mal hecho suma pérdida; un buen corte y una buena limpieza (secciones 6 y 7) ayudan a mantener cada empalme cerca de 0,1 dB.
+
+
+---
+
+## 11. 📏 Medición y verificación del empalme
+
+Después de la termofusión se registra la pérdida estimada por la fusionadora y se verifica visualmente la calidad de la unión.
+
+**Registro de la medición:**
+
+| Parámetro | Resultado |
+|---|---|
+| Tipo de fibra | Monomodo |
+| Pérdida estimada por la fusionadora | **0,00 dB** |
+| Ángulo de corte (según pantalla) | completar, o eliminar esta fila |
+| Alineación de núcleos | completar, por ejemplo: núcleos enfrentados sin desfase visible |
+| Inspección visual post-fusión | completar, por ejemplo: sin burbujas, líneas ni deformaciones |
+| Protector termorretráctil | Colocado y centrado |
+
+**Análisis del resultado:**
+
+- La fusionadora estimó una pérdida de **0,00 dB**.
+- El valor de referencia usado en el presupuesto óptico (sección 10) es de 0,1 dB por empalme, por lo que el resultado está dentro de lo esperado e incluso por debajo.
+- Esto indica una unión bien alineada, con buen corte y buena limpieza.
+- Es una **estimación del equipo**, calculada a partir de la imagen de la unión, la pérdida real puede variar levemente y solo se confirma con un OTDR o con un medidor de potencia y una fuente de luz.
+
+**Efecto en el presupuesto óptico:**
+
+Si los 4 empalmes del ejemplo de la sección 10 tuvieran 0,00 dB, la pérdida total teórica bajaría de 17,65 dB a 17,25 dB (la holgura sube a 10,75 dB), en la planificación se mantiene 0,1 dB por empalme como valor conservador.
+
+**Qué hacer según el resultado:**
+
+| Resultado | Acción |
+|---|---|
+| Pérdida baja (≤ 0,1 dB) y sin alertas | Aceptar el empalme y protegerlo |
+| Pérdida alta o alerta de ángulo | Repetir el corte, volver a limpiar y fusionar de nuevo |
+| Burbujas, líneas o desalineación visibles | Rehacer el empalme completo |
+
+> [!TIP]
+> Si el equipo marca una pérdida alta, casi siempre el origen es un corte inclinado o una limpieza incompleta (secciones 6 y 7).
    

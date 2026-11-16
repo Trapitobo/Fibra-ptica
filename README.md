@@ -203,13 +203,14 @@ La termofusión consiste en unir dos extremos de fibra óptica mediante una fusi
 **Equipo utilizado:** Fusionadora de fibra óptica.
 
 **Etapas generales del procedimiento:**
-1. Verificar que ambos extremos de fibra estén preparados y limpios.
-2. Comprobar que la fusionadora esté configurada para el tipo de fibra utilizado.
-3. Colocar los extremos en los soportes correspondientes.
-4. Cerrar la tapa del equipo.
-5. Observar el proceso de alineación realizado por la máquina.
-6. Ejecutar el ciclo de fusión según indicado.
-7. Revisar el resultado y la pérdida estimada indicada por el equipo.
+1. Antes de pelar, insertar el protector termorretráctil en una de las fibras (después no se puede colocar).
+2. Verificar que ambos extremos de fibra estén preparados y limpios.
+3. Comprobar que la fusionadora esté configurada para el tipo de fibra utilizado.
+4. Colocar los extremos en los soportes correspondientes.
+5. Cerrar la tapa del equipo.
+6. Observar el proceso de alineación realizado por la máquina.
+7. Ejecutar el ciclo de fusión según indicado.
+8. Revisar el resultado y la pérdida estimada indicada por el equipo.
 
 **Imagen representativa:**
 ![Fusionadora](assets/img/IMG_20261112_154513.jpg)

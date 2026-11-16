@@ -210,4 +210,57 @@ Después de realizar la termofusión, es necesario proteger la unión para evita
    
 **Resultado esperado:**
 Obtener un empalme protegido, firme y preparado para su posterior manipulación.
+
+
+---
+
+## 10. 📊 Presupuesto óptico del enlace
+
+El presupuesto óptico es el cálculo teórico de cuánta potencia se pierde entre el transmisor y el receptor. Permite saber si el enlace funcionará antes de instalarlo.
+
+**Fórmula:**
+
+```
+Pérdida total = (Longitud × atenuación por km)
+              + (N° empalmes × pérdida por empalme)
+              + (N° conectores × pérdida por conector)
+              + pérdida del splitter
+              + margen de seguridad
+```
+
+**Valores de referencia utilizados:**
+
+| Elemento | Valor típico |
+|---|---|
+| Fibra monomodo a 1310 nm | 0,35 dB/km |
+| Empalme por fusión | 0,1 dB |
+| Conector | 0,5 dB |
+| Splitter 1:8 | 10,5 dB |
+| Margen de seguridad | 3 dB |
+| Presupuesto GPON Clase B+ | 28 dB |
+
+> [!NOTE]
+> Son valores típicos de referencia. Pueden variar según el fabricante y la norma utilizada en la asignatura.
+
+**Ejemplo de cálculo (enlace de 5 km):**
+
+| Elemento | Cantidad | Pérdida unitaria | Pérdida total |
+|---|---|---|---|
+| Fibra monomodo (1310 nm) | 5 km | 0,35 dB/km | 1,75 dB |
+| Empalmes por fusión | 4 | 0,1 dB | 0,40 dB |
+| Conectores | 4 | 0,5 dB | 2,00 dB |
+| Splitter 1:8 | 1 | 10,5 dB | 10,50 dB |
+| Margen de seguridad | – | – | 3,00 dB |
+| **Pérdida total teórica** | | | **17,65 dB** |
+
+**Análisis del resultado:**
+
+- Presupuesto disponible (GPON Clase B+): **28 dB**
+- Pérdida total calculada: **17,65 dB**
+- Holgura restante: 28 − 17,65 = **10,35 dB**
+
+Como la pérdida calculada es menor que el presupuesto disponible, el enlace es viable.
+
+> [!TIP]
+> Cada empalme mal hecho suma pérdida. Un buen corte y una buena limpieza (secciones 6 y 7) ayudan a mantener cada empalme cerca de 0,1 dB.
    

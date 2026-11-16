@@ -184,12 +184,12 @@ El cleaving consiste en realizar un corte preciso en el extremo de la fibra ópt
 
 ### 🔍 Corte bueno vs. corte defectuoso
 
-![Esquema de corte bueno vs defectuoso](assets/img/S)
+![Esquema de corte bueno vs defectuoso](assets/img/Screenshot_19.png)
 
-Un buen corte deja la cara plana y perpendicular (≈ 90°). Si el corte queda inclinado o con astillas, hay que repetirlo desde la limpieza.
+Un buen corte deja la cara plana y perpendicular (≈ 90°), si el corte queda inclinado o con astillas, hay que repetirlo desde la limpieza.
 
 > [!TIP]
-> Muchas fusionadoras muestran el **ángulo de corte** en pantalla al cargar las fibras. Si el equipo lo marca como alto, repite el corte en vez de continuar.
+> Muchas fusionadoras muestran el **ángulo de corte** en pantalla al cargar las fibras, si el equipo lo marca como alto, repite el corte en vez de continuar.
 
 **Resultado esperado:**
 Obtener un extremo de fibra con un corte regular, adecuado para realizar el proceso de termofusión.

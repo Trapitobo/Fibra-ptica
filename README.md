@@ -108,7 +108,7 @@ Contar con un espacio de trabajo organizado, seguro y con todos los elementos ne
 
 ## 5. ✂️ Stripping: pelado de la fibra
 
-El stripping consiste en retirar las capas protectoras de la fibra óptica para dejar expuesto el vidrio, permitiendo realizar posteriormente la limpieza y el corte de precisión.
+El stripping consiste en retirar las capas protectoras de la fibra óptica (chaqueta exterior, buffer y recubrimiento acrilato) hasta dejar expuesto el vidrio de 125 micras, permitiendo realizar posteriormente la limpieza y el corte de precisión.
 
 **Herramienta utilizada:** Pinza peladora de fibra óptica (Stripper).
 

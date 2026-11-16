@@ -214,7 +214,22 @@ La termofusión consiste en unir dos extremos de fibra óptica mediante una fusi
 
 **Imagen representativa:**
 ![Fusionadora](assets/img/IMG_20261112_154513.jpg)
+
+### 🎯 Alineación de las fibras
+
+Antes de dar el arco eléctrico, la fusionadora enciende su cámara y alinea los dos extremos para que los núcleos queden enfrentados.
+
+1. Cargar ambas fibras en los soportes y cerrar la tapa.
+2. Verificar en la pantalla que ambas caras se vean limpias y bien cortadas.
+3. Dejar que el equipo alinee las fibras automáticamente (por núcleo o por cladding, según el modelo).
+4. Confirmar que las fibras quedaron enfrentadas, sin desfase lateral visible.
+5. Ejecutar la fusión y esperar la estimación de pérdida.
    
+![Pantalla de la fusionadora](assets/img/IMG_20261112_150838.jpg)
+
+> [!WARNING]
+> **Error común:** Si la fusionadora marca error de ángulo o suciedad, no forzar la fusión, volver a limpiar y a cortar las fibras.
+
 **Resultado esperado:**
 Obtener una unión entre ambas fibras, correctamente alineada y sin alertas del equipo.
 

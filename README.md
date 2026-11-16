@@ -244,11 +244,16 @@ Después de realizar la termofusión, es necesario proteger la unión para evita
 **Material utilizado:** Protector termorretráctil.
 
 **Procedimiento:**
-1. Deslizar el protector hasta cubrir la zona.
-2. Colocar la fibra en el soporte correspondiente.
-3. Utilizar el horno de protección de acuerdo con las indicaciones.
-4. Esperar el tiempo de enfriamiento recomendado.
-5. Comprobar que el protector se encuentre correctamente centrado.
+1. Retirar la fibra empalmada de la fusionadora con cuidado, sin doblarla.
+2. Deslizar el protector termorretráctil (insertado antes de la fusión) hasta que cubra el empalme.
+3. Centrar el protector de modo que la zona de fusión quede en el medio.
+4. Colocar la fibra en el horno de la fusionadora con el protector bien tenso y centrado.
+5. Ejecutar el ciclo de calentamiento y esperar a que termine.
+6. Dejar enfriar el protector antes de manipularlo.
+7. Comprobar que quedó firme, sin burbujas y con el empalme en el centro.
+
+> [!WARNING]
+> **Error común:** Un protector descentrado deja parte del empalme sin cubrir y lo expone a roturas.
 
 **Imagen representativa:**
 ![Protector termorretráctil](assets/img/IMG_20261112_154518.jpg)

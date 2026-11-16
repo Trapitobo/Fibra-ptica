@@ -327,7 +327,7 @@ Después de la termofusión se registra la pérdida estimada por la fusionadora 
 |---|---|
 | Tipo de fibra | Monomodo |
 | Pérdida estimada por la fusionadora | **0,00 dB** |
-| Ángulo de corte (según pantalla) | 90 grados |
+| Ángulo de corte (según pantalla) | Sin alerta de ángulo en pantalla |
 | Alineación de núcleos | sin desfase visible |
 | Inspección visual post-fusión | sin deformaciones |
 | Protector termorretráctil | Colocado y centrado |

@@ -43,11 +43,13 @@ Cada herramienta cumple una función específica durante el proceso de fusión, 
 ---
 
 ## 3. 🦺 Seguridad y manejo de materiales
-> 🚨 **Advertencia:** Nunca mirar directamente el extremo de una fibra óptica, aunque parezca que no transmite señal.
+
+> [!CAUTION]
+> Nunca mirar directamente el extremo de una fibra óptica, aunque parezca que no transmite señal.
 
 **⚠️Riesgos:**
 
-- Fragmentos microscópicos de vidrio.
+- Fragmentos microscópicos de vidrio que pueden clavarse en la piel o los ojos.
 
 - Rotura accidental de la fibra.
 
@@ -59,7 +61,7 @@ Cada herramienta cumple una función específica durante el proceso de fusión, 
 
 **✅Medidas preventivas:**
 
- - Usar lentes de seguridad (EPP).
+ - Usar lentes de seguridad (EPP) durante todo el procedimiento.
  
  - No tocar los fragmentos de fibra con los dedos.
  
@@ -70,6 +72,19 @@ Cada herramienta cumple una función específica durante el proceso de fusión, 
  - No comer ni beber durante la práctica.
 
  - No mirar directamente dentro de conectores o extremos de fibra.
+
+### 🥽 Equipo de protección personal (EPP)
+
+Los lentes de seguridad protegen los ojos de los fragmentos de vidrio que pueden salir proyectados al pelar y cortar la fibra.
+
+### 🗑️ Disposición de residuos de fibra
+
+Los restos de fibra son vidrio muy fino y casi invisible, por lo que no pueden quedar sobre la mesa ni botarse en la basura común.
+
+1. Mantener un contenedor para residuos cerca de la zona de trabajo.
+2. Depositar cada fragmento en el contenedor inmediatamente después de pelar o cortar.
+3. No dejar restos sobre la mesa ni en el piso, y no tocarlos con los dedos, si queda algún fragmento, recogerlo con cinta u guantes.
+4. Al terminar la práctica, cerrar el contenedor y entregarlo según se indique.
 
 
 ---
@@ -125,11 +140,16 @@ La limpieza permite eliminar residuos, polvo e impurezas que pueden afectar la c
 - Paños libres de pelusa.
   
 **Procedimiento:**
-1. Preparar los materiales de limpieza.
-2. Aplicar el procedimiento de limpieza indicado por el docente.
-3. Utilizar una zona limpia del paño para evitar transferir suciedad.
-4. Evitar tocar la fibra desnuda con los dedos.
+1. Verificar que la fibra ya esté pelada, con el vidrio expuesto.
+2. Humedecer un paño libre con alcohol isopropílico de alta pureza, sin empaparlo.
+3. Pasar la fibra desnuda por el paño en una sola dirección, hacia el extremo.
+4. Repetir usando una zona limpia del paño hasta que no queden residuos visibles.
 5. Esperar a que el alcohol se evapore completamente.
+6. No tocar la fibra limpia ni apoyarla en superficies; llevarla directamente al cleaver.
+
+> [!CAUTION]
+> El alcohol isopropílico es inflamable. Mantener el frasco cerrado y alejado de la fusionadora cuando esté en uso.
+
 
 **Imagen representativa:**
 ![Alcohol Isopropílico](assets/img/IMG_20261112_154532.jpg)

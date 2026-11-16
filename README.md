@@ -240,7 +240,7 @@ Pérdida total = (Longitud × atenuación por km)
 | Presupuesto GPON Clase B+ | 28 dB |
 
 > [!NOTE]
-> Son valores típicos de referencia. Pueden variar según el fabricante y la norma utilizada en la asignatura.
+> Son valores típicos de referencia. Pueden variar según el fabricante y la norma utilizada.
 
 **Ejemplo de cálculo (enlace de 5 km):**
 

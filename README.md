@@ -84,7 +84,7 @@ Los restos de fibra son vidrio muy fino y casi invisible, por lo que no pueden q
 1. Mantener un contenedor para residuos cerca de la zona de trabajo.
 2. Depositar cada fragmento en el contenedor inmediatamente después de pelar o cortar.
 3. No dejar restos sobre la mesa ni en el piso, y no tocarlos con los dedos, si queda algún fragmento, recogerlo con cinta u guantes.
-4. Comprobar que el vidrio de 125 micras quedó expuesto, sin restos de recubrimiento.
+4. Al terminar la práctica, cerrar el contenedor y entregarlo según se indique.
 
 
 ---
@@ -116,7 +116,7 @@ El stripping consiste en retirar las capas protectoras de la fibra óptica (chaq
 1. Sujetar la fibra con firmeza y ubicarla en la ranura correspondiente de la pinza.
 2. Retirar la chaqueta exterior y el buffer.
 3. Retirar el recubrimiento acrilato en tramos cortos, deslizando la pinza en línea recta.
-4. Comprobar que el vidrio quedó expuesto, sin restos de recubrimiento.
+4. Comprobar que el vidrio de 125 micras quedó expuesto, sin restos de recubrimiento.
 5. Revisar que la fibra no tenga marcas, dobleces ni daños visibles.
 6. Depositar los restos en el contenedor de residuos.
 

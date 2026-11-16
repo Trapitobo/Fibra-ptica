@@ -140,7 +140,7 @@ La limpieza permite eliminar residuos, polvo e impurezas que pueden afectar la c
 - Paños libres de pelusa.
   
 **Procedimiento:**
-1. Verificar que la fibra ya esté pelada, con el vidrio expuesto.
+1. Verificar que la fibra ya esté pelada, con el vidrio de 125 micras expuesto.
 2. Humedecer un paño libre con alcohol isopropílico de alta pureza, sin empaparlo.
 3. Pasar la fibra desnuda por el paño en una sola dirección, hacia el extremo.
 4. Repetir usando una zona limpia del paño hasta que no queden residuos visibles.

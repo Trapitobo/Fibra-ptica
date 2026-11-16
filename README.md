@@ -216,7 +216,7 @@ Obtener un empalme protegido, firme y preparado para su posterior manipulación.
 
 ## 10. 📊 Presupuesto óptico del enlace
 
-El presupuesto óptico es el cálculo teórico de cuánta potencia se pierde entre el transmisor y el receptor. Permite saber si el enlace funcionará antes de instalarlo.
+El presupuesto óptico es el cálculo teórico de cuánta potencia se pierde entre el transmisor y el receptor; permite saber si el enlace funcionará antes de instalarlo.
 
 **Fórmula:**
 
